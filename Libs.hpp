@@ -13,10 +13,7 @@
 #include <iostream> // General cout cin usage etc.
 #include <fstream> // For file manipulation
 #include <sstream> // String int conversion
-#include <stdio.h>
 #include <time.h> // Srand usage
-#include <stdlib.h>
-#include <cctype>
 
 using namespace std;
 
