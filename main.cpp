@@ -11,10 +11,10 @@
 #include <iostream>
 #include <string>
 
-#define RANDOMFILE "/Users/fatihbaloglu/workspace/Xcode/Basic Functionalities/Basic Functionalities/random.txt"
-#define NAMES "/Users/fatihbaloglu/workspace/Xcode/Basic Functionalities/Basic Functionalities/names.txt"
-#define OUTPUTFILE "/Users/fatihbaloglu/workspace/Xcode/Basic Functionalities/Basic Functionalities/output.txt"
-#define HASHFILE "/Users/fatihbaloglu/workspace/Xcode/Basic Functionalities/Basic Functionalities/hash.txt"
+#define RANDOMFILE "random.txt"
+#define NAMES "names.txt"
+#define OUTPUTFILE "output.txt"
+#define HASHFILE "hash.txt"
 
 #define intlinkedlistusage
 #define intquicksortusage
